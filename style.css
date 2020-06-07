@@ -87,7 +87,9 @@ a {
 }
 
 .button:hover {
+    text-decoration: none;
     background: #316099;
+    color: #FFFFFF;
 }
 
 .btn_ftr {
